@@ -47,7 +47,7 @@ Let’s redefine the possibilities of AI-driven agents and collaborative develop
 
 ## 🌍 **Join the Community**  
 
-- **Discord**: [OARC Discord](https://discord.gg/qfpwCB8nXs) [Ollama Server](https://discord.gg/ollama) 
+- **Discord**: [OARC](https://discord.gg/qfpwCB8nXs) | [Ollama](https://discord.gg/ollama) 
 - **Support**: [Buy Me a Coffee](https://ko-fi.com/theborch)  
 
 ---
