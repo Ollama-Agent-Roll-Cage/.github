@@ -1,6 +1,6 @@
 # 👽🧙 **Ollama Agent Roll Cage (OARC)** 🤬🤖  
 <p align="center">  
-  <img src="https://raw.githubusercontent.com/Ollama-Agent-Roll-Cage/oarc/tree/master/assets/ollama_agent_roll_cage_icon.png" alt="OARC LOGO" width="250"/>  
+  <img src="https://raw.githubusercontent.com/Ollama-Agent-Roll-Cage/oarc/assets/OARC_LOGO_RMBG.png" alt="OARC LOGO" width="250"/>  
 </p>  
 <p align="center">  
   <a href="https://ko-fi.com/theborch"><img src="https://raw.githubusercontent.com/Ollama-Agent-Roll-Cage/oarc/tree/master/assets/buy me a coffee button.png" height="48"></a>  
