@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Ollama-Agent-Roll-Cage/oarc/blob/master/assets/OARC_LOGO_RMBG.png" alt="OARC LOGO" width="250"/>  
 </p>  
 <p align="center">  
-  <a href="https://ko-fi.com/theborch"><img src="https://raw.githubusercontent.com/Ollama-Agent-Roll-Cage/oarc/blob/master/assets/buy me a coffee button.png" height="48"></a>  
+  <a href="https://ko-fi.com/theborch"><img src="https://raw.githubusercontent.com/Ollama-Agent-Roll-Cage/oarc/blob/master/assets/buy me a coffee button (2).png" height="48"></a>  
   <a href="https://discord.gg/mNeQZzBHuW"><img src="https://raw.githubusercontent.com/Ollama-Agent-Roll-Cage/oarc/blob/master/assets/Discord button.png" height="48"></a>  
 </p>  
 
