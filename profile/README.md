@@ -3,8 +3,8 @@
   <img src="https://raw.githubusercontent.com/Leoleojames1/ollama_agent_roll_cage/master/docs/assets/icons/ollama_agent_roll_cage_icon.png" alt="OARC LOGO" width="250"/>  
 </p>  
 <p align="center">  
-  <a href="https://ko-fi.com/theborch"><img src="https://raw.githubusercontent.com/Leoleojames1/ollama_agent_roll_cage/master/docs/assets/icons/buy me a coffee button.png" height="48"></a>  
-  <a href="https://discord.gg/mNeQZzBHuW"><img src="https://raw.githubusercontent.com/Leoleojames1/ollama_agent_roll_cage/master/docs/assets/icons/Discord button.png" height="48"></a>  
+  <a href="https://ko-fi.com/theborch"><img src="https://raw.githubusercontent.com/oll4m404rc/ollama_agent_roll_cage/master/docs/assets/icons/buy me a coffee button.png" height="48"></a>  
+  <a href="https://discord.gg/mNeQZzBHuW"><img src="https://raw.githubusercontent.com/oll4m404rc/ollama_agent_roll_cage/master/docs/assets/icons/Discord button.png" height="48"></a>  
 </p>  
 
 ---
