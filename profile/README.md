@@ -1,4 +1,4 @@
-# 👽🧙 **(Ollama) Agent Roll Cage (OARC)** 🤬🤖  
+# 👽🧙 **Ollama Agent Roll Cage (OARC)** 🤬🤖  
 <p align="center">  
   <img src="https://raw.githubusercontent.com/Ollama-Agent-Roll-Cage/oarc/assets/OARC_LOGO_RMBG.png" alt="OARC LOGO" width="250"/>  
 </p>  
