@@ -45,4 +45,4 @@ Let’s redefine the possibilities of AI-driven agents and collaborative develop
 
 ## 📜 **Licenses**  
 
-[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) |[MADE WITH META LLAMA](https://huggingface.co/cognitivecomputations/dolphin-2.9-llama3-8b/blob/main/LICENSE) | [Coqui Public Model License 1.0.0](https://huggingface.co/Borcherding/XTTS-v2_C3PO/blob/main/LICENSE.txt)  
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) | [MADE WITH META LLAMA](https://huggingface.co/cognitivecomputations/dolphin-2.9-llama3-8b/blob/main/LICENSE) | [Coqui Public Model License 1.0.0](https://huggingface.co/Borcherding/XTTS-v2_C3PO/blob/main/LICENSE.txt)  
