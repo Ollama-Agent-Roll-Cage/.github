@@ -29,7 +29,7 @@ Let’s redefine the possibilities of AI-driven agents and collaborative develop
 
 ## 💡 **Core Features**
 
-- **Unified API**: Streamline chatbot agent design and deployment.  
+- **Unified API & UI**: Streamline chatbot agent design and deployment for both backend and frontend integration and deployment options.  
 - **Multimodal Capabilities**: Integrate speech, vision, and data retrieval seamlessly.  
 - **Custom Automation**: Build tailored workflows for your unique use cases.  
 - **Security Tools**: Protect your agentic projects with robust safeguards.  
