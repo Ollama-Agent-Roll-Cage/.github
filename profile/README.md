@@ -29,26 +29,17 @@ Let’s redefine the possibilities of AI-driven agents and collaborative develop
 
 ## 💡 **Core Features**
 
-- **Unified API & UI**: Streamline chatbot agent design and deployment for both backend and frontend integration and deployment options.  
+- **Unified API & UI**: Multiple Chatbot Agent UI and Framework designs and deployment options for core backend, fastapi, and multiple frontend integration and deployment options.  
 - **Multimodal Capabilities**: Integrate speech, vision, and data retrieval seamlessly.  
 - **Custom Automation**: Build tailored workflows for your unique use cases.  
 - **Security Tools**: Protect your agentic projects with robust safeguards.  
 
 ---
 
-## 🎥 **Demo Videos**
-
-[![Watch the video](https://img.youtube.com/vi/W7TusPTnNXA/0.jpg)](https://www.youtube.com/watch?v=W7TusPTnNXA)
-- [OARC v0.28.0 - Speech-to-Speech with Vision & Agent Library](https://www.youtube.com/watch?v=W7TusPTnNXA)
-- [OARC Demo Videos Compilation](https://github.com/Leoleojames1/ollama_agent_roll_cage/blob/master/docs/demo_videos.md)
-- [OARC 0.27.0 DEMO 5 - HF S_Dogg Model](https://streamable.com/hldmzh?src=player-page-share)  
-
----
-
 ## 🌍 **Join the Community**  
 
 - **Discord**: [OARC](https://discord.gg/qfpwCB8nXs) | [Ollama](https://discord.gg/ollama) 
-- **Support**: [Buy Me a Coffee](https://ko-fi.com/theborch)  
+- **Support**: [Buy Me a Coffee](https://ko-fi.com/oll4m404rc)  
 
 ---
 
